@@ -1,10 +1,10 @@
 # Course Title
 
-uPy-1000: MicroPython for Everyone
+## uPy-1000: MicroPython for Everyone
 
 # Sub-Title
 
-Fast & Efficient Programming on Linux
+### Fast & Efficient Programming on Linux
 
 ## Key Topics
 
